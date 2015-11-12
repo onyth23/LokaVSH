@@ -1,0 +1,2 @@
+# LokaVSH
+Lokaverkefni fyrir VSH
